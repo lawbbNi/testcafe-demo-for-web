@@ -1,0 +1,7 @@
+{
+  "name": "Testcafe demo for the website",
+  "version": "1.0.0",
+  "dependencies": {
+    "testcafe": "^2.6.1"
+  }
+}
